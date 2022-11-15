@@ -1,0 +1,4 @@
+.chisel
+builds
+*.tar.gz
+out
